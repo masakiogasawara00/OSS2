@@ -18,4 +18,4 @@ URL：https://www.ubuntulinux.jp/
 概要：FreeBSD は Linuxと似ているが、 範囲とライセンスに２つの大きな違いがある
 URL：http://www.jp.freebsd.org/
 
-変更
+変更２
